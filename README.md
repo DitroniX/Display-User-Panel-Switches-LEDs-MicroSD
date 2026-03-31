@@ -34,7 +34,9 @@ The board has been designed to be reverse mounted, so hiding all the SMT and con
 
 The **Display User Panel** was originally designed as a display panel for the [ESPKnack](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN),  and then subsequently for the [IPEM Plus](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor).
 
-The concept was to allow easy interfacing to an existing SDK board, with LEDs and Tactile Buttons, plus a MicroSD Card holder.
+The concept was to allow easy interfacing to an existing SDK boards, with LEDs and Tactile Buttons, plus a MicroSD Card holder.
+
+Suitable also for ESP SDKs, Arduino Boards, Raspberry Pi's, STM Boards etc.
 
 ### Interfaces
 

@@ -4,7 +4,7 @@
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/Display-User-Panel-Switches-LEDs-MicroSD/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki)
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor?tab=readme-ov-file#updates)
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/Display-User-Panel-Switches-LEDs-MicroSD?tab=readme-ov-file#updates)
 
 ![Display User Panel Preview](https://github.com/DitroniX/Display-User-Panel-Switches-LEDs-MicroSD/blob/main/Datasheets%20and%20Information/Display%20User%20Panel%20-%20Overview.png)
 

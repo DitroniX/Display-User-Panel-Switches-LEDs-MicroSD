@@ -6,8 +6,7 @@
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/Display-User-Panel-Switches-LEDs-MicroSD?tab=readme-ov-file#updates)
 
-Pre-Production Images Shown
-![Display User Panel Preview](https://github.com/DitroniX/Display-User-Panel-Switches-LEDs-MicroSD/blob/main/Datasheets%20and%20Information/Display%20User%20Panel%20-%20Overview.png)
+![Display User Panel](https://github.com/DitroniX/Display-User-Panel-Switches-LEDs-MicroSD/blob/main/Datasheets%20and%20Information/Display%20User%20Panel%20-%20Features.png)
 
 ## Welcome to Display User Panel
 
@@ -63,6 +62,7 @@ Further details can be found in the [Wiki](https://github.com/DitroniX/Display-U
 
 ## Updates
 
+-   26-04-08 - Production Boards in Test
 -   26-03-15 - Pre-Production
 -   26-02-22 - Preview Overview Released
 -   26-02-18 - Pre-Production boards in SMT fabrication, for final testing.

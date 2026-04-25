@@ -31,6 +31,7 @@ The board has been designed to be reverse mounted, so hiding all the SMT and con
 -   Expansion Interface (12 way JST 1mm )
 -   SPI Interface (6 way JST 1mm )
 -   PCB Size 79.25 mm x 58.1 mm
+-   Fits DIN Enclosure VG-GR35 (90x84x57)
 
 ### Concept and User Applications
 

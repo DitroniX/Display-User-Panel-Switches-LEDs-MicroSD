@@ -30,7 +30,7 @@ The board has been designed to be reverse mounted, so hiding all the SMT and con
 -   OLED I2C Port
 -   Expansion Interface (12 way JST 1mm )
 -   SPI Interface (6 way JST 1mm )
--   PCB Size 79.25 mm x 70.1 mm
+-   PCB Size 79.25 mm x 58.1 mm
 
 ### Concept and User Applications
 

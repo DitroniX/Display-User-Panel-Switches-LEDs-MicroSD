@@ -12,6 +12,8 @@
 
 The new **Display User Panel** is a STEM board which allows input and output from SDKs.
 
+Display suitable for most 3V3 Arduino, MCU, FPGA, DSP,  ESP, STM, PIC or Raspberry Pi based projects.
+
 **Display User Panel** is a single small board, with two interface connectors.
 
 The board has been designed to be reverse mounted, so hiding all the SMT and connections from the facia.

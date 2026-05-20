@@ -65,6 +65,7 @@ Further details can be found in the [Wiki](https://github.com/DitroniX/Display-U
 
 ## Updates
 
+-   26-05-20 - Both Versions of the User Display (VG34 and VG35), are now is stock.
 -   26-04-08 - Production Boards in Test
 -   26-03-15 - Pre-Production
 -   26-02-22 - Preview Overview Released

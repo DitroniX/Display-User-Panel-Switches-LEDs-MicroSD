@@ -12,6 +12,8 @@
 
 The new **Display User Panel** is a STEM board which allows input and output from SDKs.
 
+Display suitable for most 3V3 Arduino, MCU, FPGA, DSP,  ESP, STM, PIC or Raspberry Pi based projects.
+
 **Display User Panel** is a single small board, with two interface connectors.
 
 The board has been designed to be reverse mounted, so hiding all the SMT and connections from the facia.
@@ -28,7 +30,8 @@ The board has been designed to be reverse mounted, so hiding all the SMT and con
 -   OLED I2C Port
 -   Expansion Interface (12 way JST 1mm )
 -   SPI Interface (6 way JST 1mm )
--   PCB Size 79.25 mm x 70.1 mm
+-   PCB Size 79.25 mm x 58.1 mm
+-   Fits DIN Enclosure VG-GR35 (90x84x57)
 
 ### Concept and User Applications
 
@@ -62,6 +65,7 @@ Further details can be found in the [Wiki](https://github.com/DitroniX/Display-U
 
 ## Updates
 
+-   26-05-20 - Both Versions of the User Display (VG34 and VG35), are now is stock.
 -   26-04-08 - Production Boards in Test
 -   26-03-15 - Pre-Production
 -   26-02-22 - Preview Overview Released

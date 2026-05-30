@@ -14,6 +14,24 @@ The new **Display User Panel** is a STEM board which allows input and output fro
 
 Display suitable for most 3V3 Arduino, MCU, FPGA, DSP,  ESP, STM, PIC or Raspberry Pi based projects.
 
+## Display User Panel Variants
+
+### VG34
+
+-   Designed to fit into a Vange VG-GR34 DIN Enclosure (90x71x57mm)
+-   Panel Size 67 x 58mm
+-   Buttons, LEDs and MicroSD are reverse mounted
+-   Connectors, 12W JST 1mm SH and 6W JST 1mm SH
+
+### VG35
+
+-   Designed to fit into a Vange VG-GR35 DIN Enclosure (90x84x57mm)
+-   Panel Size 79.25 x 58.1mm
+-   Buttons, LEDs and MicroSD are reverse mounted
+-   Connectors, 12W JST 1mm SH and 6W JST 1mm SH
+
+## Features
+
 **Display User Panel** is a single small board, with two interface connectors.
 
 The board has been designed to be reverse mounted, so hiding all the SMT and connections from the facia.
@@ -30,8 +48,10 @@ The board has been designed to be reverse mounted, so hiding all the SMT and con
 -   OLED I2C Port
 -   Expansion Interface (12 way JST 1mm )
 -   SPI Interface (6 way JST 1mm )
--   PCB Size 79.25 mm x 58.1 mm
+-   VG34 PCB Size 67 x 58mm
+-   VG35 PCB Size 79.25 x 58.1mm
 -   Fits DIN Enclosure VG-GR35 (90x84x57)
+-   Fits DIN Enclosure VG-GR34 (90x71x57)
 
 ### Concept and User Applications
 
